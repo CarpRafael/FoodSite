@@ -1,1 +1,1 @@
-# FoodSite
+FoodSite este un site de unde poti comanda diferite retete.
